@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "66fab3f5bffc0ac966802f9f"
+  },
+  "name": "Produk baru",
+  "price": 40000,
+  "description": "Ini Produk Baru",
+  "__v": 0
+}]
